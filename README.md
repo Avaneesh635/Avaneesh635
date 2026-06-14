@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Avaneesh Joshi</h1>
 
 <h3 align="center">AI Automation Engineer | Applied AI Builder | Future Forward Deployed Engineer</h3>
