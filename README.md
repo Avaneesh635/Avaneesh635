@@ -94,15 +94,23 @@ Automated email workflow that generates, classifies, and manages outreach using 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-00C853?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-00C853?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/Vector_DB-2196F3?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2196F3?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
+![Gmail API](https://img.shields.io/badge/Gmail_API-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
