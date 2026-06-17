@@ -121,6 +121,7 @@ Automated email workflow that generates, classifies, and manages outreach using 
 ---
 
 ### Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
