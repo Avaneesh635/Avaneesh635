@@ -135,6 +135,6 @@ Automated email workflow that generates, classifies, and manages outreach using 
 ---
 
 ## 🌍 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/avaneeshjoshi18
-📧 Email: avaneeshjoshi18@gmail.com
-🐙 GitHub: https://github.com/Avaneesh635
+💼 LinkedIn: https://linkedin.com/in/avaneeshjoshi18 <br>
+📧 Email: avaneeshjoshi18@gmail.com <br>
+🐙 GitHub: https://github.com/Avaneesh635 <br>
