@@ -45,45 +45,145 @@ An AI system that processes meeting conversations and automatically extracts act
 - Meeting Summarization
 - Action Item Detection
 - Follow-up Recommendations
+- Risk Identification
 - Knowledge Extraction
 
 **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-00C853?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-FF6B6B?style=for-the-badge)
-![Automation Workflows](https://img.shields.io/badge/Automation_Workflows-2196F3?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2196F3?style=for-the-badge)
 
 ---
 
-### 🔍 AI Lead Research Agent
+### 🔍 AI RAG Knowledge Base Assistant
+A Retrieval-Augmented Generation (RAG) system that enables semantic search and context-aware question answering over uploaded documents.
+
+**Features**
+- Document Upload & Processing
+- Semantic Search
+- Context Retrieval
+- Question Answering
+- Knowledge Base Management
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00C853?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2196F3?style=for-the-badge)
+
+---
+
+### 🎯 AI Lead Research Agent
 An AI-powered research workflow that gathers, analyzes, and structures lead information automatically.
 
 **Features**
 - Lead Enrichment
 - Company Research
 - Prospect Qualification
+- Lead Scoring
+- Personalized Outreach
 - Structured Reporting
 
 **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-00C853?style=for-the-badge)
-![APIs](https://img.shields.io/badge/APIs-FF6B6B?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_LLM-00C853?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2196F3?style=for-the-badge)
+
+---
+
+### 🎫 AI Support Ticket Classifier
+An AI-powered support automation system that classifies tickets, prioritizes issues, and generates intelligent responses.
+
+**Features**
+- Ticket Classification
+- Priority Detection
+- Auto Response Generation
+- Escalation Routing
+- Support Analytics
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2196F3?style=for-the-badge)
 
 ---
 
 ### 📧 AI Email Automation Agent
-Automated email workflow that generates, classifies, and manages outreach using AI.
+An automated email workflow that generates, classifies, and manages outreach using AI.
+
+**Features**
+- Email Classification
+- Priority Detection
+- Email Summarization
+- Action Item Extraction
+- Response Draft Generation
+- Follow-up Automation
 
 **Tech Stack**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gmail API](https://img.shields.io/badge/Gmail_API-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-00C853?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge)
+
+---
+
+### 📄 AI Resume Analyzer & Optimizer
+An AI-powered resume intelligence platform that evaluates resumes against job descriptions and provides optimization recommendations.
+
+**Features**
+- Resume Parsing
+- ATS Score Generation
+- Job Description Matching
+- Skill Gap Analysis
+- Resume Optimization Suggestions
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00C853?style=for-the-badge)
+![PDF Processing](https://img.shields.io/badge/PDF_Processing-FF6B6B?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2196F3?style=for-the-badge)
+
+---
+
+### 🎭 Emotion Lens
+Real-time facial emotion recognition running in the browser. Detects Happy, Sad, and Surprised emotions live from your webcam with confidence scores, probability breakdown, and session history.
+
+**Features**
+- Real-time Emotion Detection
+- Live Confidence Breakdown
+- Session Stats & History
+- Browser-based Camera Access
+- Dark Interactive Web UI
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SocketIO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
@@ -102,15 +202,25 @@ Automated email workflow that generates, classifies, and manages outreach using 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_LLM-00C853?style=for-the-badge)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-00C853?style=for-the-badge)
 ![VectorDB](https://img.shields.io/badge/Vector_DB-2196F3?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-2196F3?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
 ![Gmail API](https://img.shields.io/badge/Gmail_API-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+---
+
+### ML & Computer Vision
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00C853?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=for-the-badge)
 
 ---
 
@@ -122,6 +232,8 @@ Automated email workflow that generates, classifies, and manages outreach using 
 
 ### Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
