@@ -4,12 +4,22 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building AI-powered automation systems and agentic workflows
-- 🌱 Learning RAG, Embeddings, Vector Databases, Retrieval Systems, and AI Agents
-- 🤖 Passionate about Applied AI, Workflow Automation, and LLM-powered products
-- ⚡ Strong believer in shipping solutions that solve real business problems
-- 🛠️ Built AI systems for lead intelligence, support triage, meeting intelligence, and workflow automation
-- 🎯 Goal: Become a world-class Applied AI / Forward Deployed Engineer
+
+I'm an AI Automation Engineer and Applied AI Builder passionate about creating intelligent systems that solve real business problems.
+
+I specialize in building AI-powered workflows, automation platforms, RAG applications, and agentic systems using Python, n8n, LLMs, APIs, and vector databases. My projects focus on automating business operations, knowledge retrieval, meeting intelligence, lead research, and communication workflows.
+
+I enjoy transforming complex processes into scalable AI solutions and building products that deliver measurable business impact.
+
+🎯 Open to opportunities in:
+
+* Applied AI Engineering
+* AI Automation Engineering
+* Forward Deployed Engineering
+* AI Solutions Engineering
+* Agentic AI & RAG Systems
+
+📍 Fresher | Open to Full-Time Opportunities | Open to Relocation
 
 ---
 
