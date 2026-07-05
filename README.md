@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avaneesh Joshi</h1>
-<h3 align="center">AI Automation Engineer | Applied AI Builder | Forward Deployed Engineer</h3>
+<h3 align="center">Aspiring AI Engineer | Building AI Agents, Local LLM Applications, RAG Systems & Workflow Automation</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/avaneeshjoshi18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,22 +12,42 @@
 
 ## 🚀 About Me
 
-I'm an AI Automation Engineer and Applied AI Builder passionate about creating intelligent systems that solve real business problems.
+I'm an aspiring AI Engineer passionate about building intelligent software powered by Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), and workflow automation.
 
-I specialize in building AI-powered workflows, automation platforms, RAG applications, and agentic systems using Python, n8n, LLMs, APIs, and vector databases. My work focuses on automating business operations, knowledge retrieval, meeting intelligence, lead research, and communication workflows — always targeting measurable outcomes.
+I enjoy designing production-ready AI applications that combine modern LLMs with automation platforms, APIs, vector databases, desktop applications, and cloud services — turning them into systems that solve real-world problems, from autonomous business workflows to local-first AI assistants.
 
-🎯 Open to opportunities in:
-- Applied AI Engineering
-- AI Automation Engineering
+🎯 Interested in:
+- AI Engineering
+- Applied AI
+- Agentic AI
+- RAG Systems
+- AI Automation
+- AI Platform Engineering
 - Forward Deployed Engineering
-- AI Solutions Engineering
-- Agentic AI & RAG Systems
 
 📍 Fresher | Open to Full-Time Opportunities | Open to Relocation
 
 ---
 
 ## 🏆 Featured Projects
+
+### 🌙 Luna — AI-Powered Personal Desktop Assistant
+
+> *Delivered a privacy-first desktop assistant running entirely offline, as measured by zero external API calls across chat, memory, and automation features, by architecting an Electron + React app powered by a local Ollama LLM daemon with a secure ContextBridge IPC layer.*
+
+- Enabled safe hands-off OS automation, as measured by every system-level action (email drafting, file organizing, batch renaming, app launching) requiring explicit click-to-grant consent, by building sandboxed automation modules gated behind consent security modals
+- Built a self-updating personal memory layer, as measured by automatic extraction of user preferences and facts during natural conversation, by implementing agentic memory extraction with a searchable, editable local memory dashboard
+
+**Tech Stack**
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Web Audio API](https://img.shields.io/badge/Web_Audio_API-FF6B6B?style=for-the-badge)
+
+---
 
 ### 🤖 AI Business Operations Copilot
 
