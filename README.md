@@ -67,6 +67,23 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
+### ⚡ Redis-Lite — Asynchronous Concurrent Key-Value Store
+
+> *Delivered a high-performance, asynchronous in-memory key-value store, as measured by successful command execution (GET, SET, DEL, EXISTS, PING) and seamless compatibility with the official redis-cli tool, by architecting a multi-threaded TCP server in Rust powered by the Tokio runtime.*
+
+- Eliminated lock contention under heavy concurrent read/write traffic, as measured by independent lock acquisition across partitions, by implementing a database sharding engine splitting data store state across 16 memory shards protected by separate RwLocks
+- Prevented thread starvation and request blocking during active key eviction, as measured by zero-overhead key cleanups, by designing a background TTL garbage collection worker that utilizes non-blocking try_write locks to prune expired keys
+
+**Tech Stack**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-E06F3F?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RESP Protocol](https://img.shields.io/badge/RESP_Protocol-FF6B6B?style=for-the-badge)
+![Multi Threading](https://img.shields.io/badge/Multi_Threading-2196F3?style=for-the-badge)
+
+---
+
 ### 🧠 AI Meeting Intelligence Assistant
 
 > *Eliminated manual note-taking and follow-up tracking entirely, as measured by automated extraction of action items, risks, and recommendations from raw meeting transcripts, by building an AI pipeline using Gemini AI with structured prompt engineering to parse and surface insights in seconds.*
@@ -192,6 +209,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ## 💻 Tech Stack
 
 ### Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -219,6 +237,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=for-the-badge)
 
 ### Frameworks & Tools
+![Tokio](https://img.shields.io/badge/Tokio-E06F3F?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -227,6 +246,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
