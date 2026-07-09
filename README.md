@@ -31,6 +31,25 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ## 🏆 Featured Projects
 
+### 🛡️ Production RAG API — Hardened Retrieval System
+
+> *Reduced repeat-query latency from ~150ms to ~1ms and eliminated redundant LLM spend, as measured by semantic cache hit rate, by building an embedding-similarity cache layer in front of a hardened, production-grade Retrieval-Augmented Generation API.*
+
+- Enabled zero-code-change deployment across dev and production, as measured by identical test suites passing in both environments, by architecting a dual-mode vector store interface that swaps an in-memory NumPy backend for a pgvector/PostgreSQL HNSW index
+- Reduced ungrounded and unsafe responses, as measured by automated faithfulness and grounding scores from a custom Ragas-style evaluation suite, by layering prompt-injection detection, document-poisoning checks, and hallucination guardrails around every generated answer
+- Cut manual eval effort to near-zero, as measured by automated scoring on every pipeline change, by building a repeatable `run_evals.py` harness reporting faithfulness, grounding, and routing accuracy
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas_Evaluation-00C853?style=for-the-badge)
+
+---
+
 ### 🌙 Luna — AI-Powered Personal Desktop Assistant
 
 > *Delivered a privacy-first desktop assistant running entirely offline, as measured by zero external API calls across chat, memory, and automation features, by architecting an Electron + React app powered by a local Ollama LLM daemon with a secure ContextBridge IPC layer.*
@@ -98,24 +117,6 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-FF6B6B?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00C853?style=for-the-badge)
-
----
-
-### 🔍 AI RAG Knowledge Base Assistant
-
-> *Enabled accurate, context-grounded answers over uploaded document collections, as measured by semantic retrieval replacing keyword search across knowledge bases, by building a RAG pipeline using FAISS vector indexing and Sentence Transformers with Gemini AI for answer generation.*
-
-- Reduced hallucination risk significantly, as measured by every answer being grounded in retrieved document chunks rather than LLM memory, by implementing strict retrieval-before-generation architecture
-- Supported multi-document knowledge bases, as measured by seamless querying across uploaded PDFs, by building a FAISS index that scales with document volume without retraining
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00C853?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-2196F3?style=for-the-badge)
 
 ---
 
@@ -224,6 +225,8 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Ragas](https://img.shields.io/badge/Ragas_Evaluation-00C853?style=for-the-badge)
+![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-C0392B?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6B6B?style=for-the-badge)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge)
@@ -246,6 +249,8 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
