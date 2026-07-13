@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avaneesh Joshi</h1>
-<h3 align="center">Aspiring AI Engineer | Building AI Agents, Local LLM Applications, RAG Systems & Workflow Automation</h3>
+<h3 align="center">AI/ML Engineer | GenAI & Agentic AI Developer | Building AI Agents, Local LLM Applications, RAG Systems & Workflow Automation</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/avaneeshjoshi18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-I'm an aspiring AI Engineer passionate about building intelligent software powered by Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), and workflow automation.
+I'm a self-taught AI/ML Engineer who has independently shipped 10+ production-grade AI systems, from a hardened Generative AI RAG API to an offline desktop AI assistant. I'm also an active open-source contributor, with 5 merged pull requests to a LangGraph-based Playwright self-healing engine — including two maintainer-rated "Core Feature" implementations.
 
 I enjoy designing production-ready AI applications that combine modern LLMs with automation platforms, APIs, vector databases, desktop applications, and cloud services — turning them into systems that solve real-world problems, from autonomous business workflows to local-first AI assistants.
 
 🎯 Interested in:
-- AI Engineering
+- Generative AI Engineering
 - Applied AI
 - Agentic AI
 - RAG Systems
@@ -29,11 +29,27 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
+## 🌱 Open Source Contributions
+
+### E2E-Self-Heal — LangGraph/Playwright Self-Healing Engine
+
+> 5 merged pull requests into a public production codebase, progressing from test coverage to core-feature architecture — promoted from Contributor to Collaborator by the maintainer.
+
+- Built a deterministic **MatchScorer** (Python) for network-mock replay using weighted similarity scoring across URL, headers, query params, and body, with tie-breaking logic for reproducibility
+- Built a persistent **SnapshotStore** (Pydantic schemas, structlog logging, custom exception hierarchy) for Shadow Runtime state — rated **"Core Feature"** by the maintainer
+- Built the **Playwright Mock Injector** for the Shadow Testing system, handling sync/async Playwright runtimes via route interception — also rated **"Core Feature"**
+- Replaced a regex-based JSX diff parser with a **tree-sitter AST parser**, with graceful fallback, to make selector-diff analysis robust against complex nested JSX
+- Added **70+ pytest unit tests** across CLI, selector verification, and sandboxed runner modules, including a cross-platform Windows symlink fix
+
+**Repo:** [Lee-Dongwook/E2E-Self-Heal](https://github.com/Lee-Dongwook/E2E-Self-Heal)
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🛡️ Production RAG API — Hardened Retrieval System
 
-> *Reduced repeat-query latency from ~150ms to ~1ms and eliminated redundant LLM spend, as measured by semantic cache hit rate, by building an embedding-similarity cache layer in front of a hardened, production-grade Retrieval-Augmented Generation API.*
+> *Reduced repeat-query latency from ~150ms to ~1ms and eliminated redundant LLM spend, as measured by semantic cache hit rate, by building an embedding-similarity cache layer in front of a hardened, production-grade Generative AI Retrieval-Augmented Generation API.*
 
 - Enabled zero-code-change deployment across dev and production, as measured by identical test suites passing in both environments, by architecting a dual-mode vector store interface that swaps an in-memory NumPy backend for a pgvector/PostgreSQL HNSW index
 - Reduced ungrounded and unsafe responses, as measured by automated faithfulness and grounding scores from a custom Ragas-style evaluation suite, by layering prompt-injection detection, document-poisoning checks, and hallucination guardrails around every generated answer
@@ -219,12 +235,15 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### AI & Automation
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_LLM-00C853?style=for-the-badge)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge)
 ![Ragas](https://img.shields.io/badge/Ragas_Evaluation-00C853?style=for-the-badge)
 ![LLM Guardrails](https://img.shields.io/badge/LLM_Guardrails-C0392B?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00C853?style=for-the-badge)
@@ -244,8 +263,11 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases
@@ -258,9 +280,9 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 ---
 
 ## 📜 Certifications
-- 🏆 Google Cloud Professional Machine Learning Engineer
-- ☁️ AWS Cloud Quest: Cloud Practitioner
-- 📊 Data Engineer Certification
+- 🏆 Google Cloud Certified Professional Machine Learning Engineer
+- ☁️ AWS Cloud Practitioner Certified
+- 🤖 Oracle Agentic AI Certified
 
 ---
 
