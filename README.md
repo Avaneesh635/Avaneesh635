@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avaneesh Joshi</h1>
+<h1 align="center">Hi , I'm Avaneesh Joshi</h1>
 <h3 align="center">AI/ML Engineer | GenAI & Agentic AI Developer | Building AI Agents, Local LLM Applications, RAG Systems & Workflow Automation</h3>
 
 <p align="center">
@@ -25,11 +25,11 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 - AI Platform Engineering
 - Forward Deployed Engineering
 
-📍 Fresher | Open to Full-Time Opportunities | Open to Relocation
+ Fresher | Open to Full-Time Opportunities | Open to Relocation
 
 ---
 
-## 🌱 Open Source Contributions
+##  Open Source Contributions
 
 ### E2E-Self-Heal — LangGraph/Playwright Self-Healing Engine
 
@@ -45,9 +45,9 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🛡️ Production RAG API — Hardened Retrieval System
+###  Production RAG API — Hardened Retrieval System
 
 > *Reduced repeat-query latency from ~150ms to ~1ms and eliminated redundant LLM spend, as measured by semantic cache hit rate, by building an embedding-similarity cache layer in front of a hardened, production-grade Generative AI Retrieval-Augmented Generation API.*
 
@@ -66,7 +66,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 🌙 Luna — AI-Powered Personal Desktop Assistant
+###  Luna — AI-Powered Personal Desktop Assistant
 
 > *Delivered a privacy-first desktop assistant running entirely offline, as measured by zero external API calls across chat, memory, and automation features, by architecting an Electron + React app powered by a local Ollama LLM daemon with a secure ContextBridge IPC layer.*
 
@@ -84,7 +84,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 🤖 AI Business Operations Copilot
+###  AI Business Operations Copilot
 
 > *Consolidated 5+ business functions into a single zero-intervention pipeline, as measured by elimination of separate tools for lead intelligence, support triage, and meeting intelligence, by architecting a unified AI platform using n8n Switch nodes with LLM-structured outputs feeding live Google Sheets dashboards.*
 
@@ -102,7 +102,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### ⚡ Redis-Lite — Asynchronous Concurrent Key-Value Store
+###  Redis-Lite — Asynchronous Concurrent Key-Value Store
 
 > *Delivered a high-performance, asynchronous in-memory key-value store, as measured by successful command execution (GET, SET, DEL, EXISTS, PING) and seamless compatibility with the official redis-cli tool, by architecting a multi-threaded TCP server in Rust powered by the Tokio runtime.*
 
@@ -119,7 +119,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 🧠 AI Meeting Intelligence Assistant
+###  AI Meeting Intelligence Assistant
 
 > *Eliminated manual note-taking and follow-up tracking entirely, as measured by automated extraction of action items, risks, and recommendations from raw meeting transcripts, by building an AI pipeline using Gemini AI with structured prompt engineering to parse and surface insights in seconds.*
 
@@ -136,7 +136,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 🎯 AI Lead Research Agent
+###  AI Lead Research Agent
 
 > *Reduced lead qualification time by ~65%, as measured by time per qualified lead vs. manual research, by automating the full sales intelligence cycle — company enrichment, opportunity discovery, lead scoring, and personalized outreach — via n8n and Groq LLM.*
 
@@ -153,7 +153,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 🎫 AI Support Ticket Classifier
+###  AI Support Ticket Classifier
 
 > *Automated support triage end-to-end, as measured by tickets being classified, prioritized, and responded to without human intervention, by building an n8n workflow with Gemini AI handling classification, priority detection, response generation, and escalation routing.*
 
@@ -170,7 +170,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 📧 AI Email Automation Agent
+###  AI Email Automation Agent
 
 > *Automated the full email management cycle, as measured by classification, summarization, action extraction, and draft generation happening without manual reading, by building a Streamlit + Gemini AI pipeline connected to Gmail API with webhook-triggered processing.*
 
@@ -188,7 +188,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 📄 AI Resume Analyzer & Optimizer
+###  AI Resume Analyzer & Optimizer
 
 > *Delivered ATS score, skill gap analysis, and optimization recommendations in seconds, as measured by structured report generation from a raw resume + job description pair, by building a Gemini AI pipeline with NLP-based parsing and PDF processing.*
 
@@ -205,7 +205,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-### 🎭 Emotion Lens — Real-Time Facial Emotion Recognition
+###  Emotion Lens — Real-Time Facial Emotion Recognition
 
 > *Delivered real-time emotion detection (Happy, Sad, Surprised) with live confidence scores in the browser, as measured by end-to-end WebSocket latency from webcam frame to predicted result, by streaming base64 frames from the browser to a Flask-SocketIO server running in-memory MediaPipe inference.*
 
@@ -223,7 +223,7 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -279,15 +279,15 @@ I enjoy designing production-ready AI applications that combine modern LLMs with
 
 ---
 
-## 📜 Certifications
-- 🏆 Google Cloud Certified Professional Machine Learning Engineer
-- ☁️ AWS Cloud Practitioner Certified
-- 🤖 Oracle Agentic AI Certified
+##  Certifications
+-  Google Cloud Certified Professional Machine Learning Engineer
+-  AWS Cloud Practitioner Certified
+-  Oracle Agentic AI Certified
 
 ---
 
-## 🌍 Connect With Me
-💼 LinkedIn: https://linkedin.com/in/avaneeshjoshi18  
-📧 Email: avaneeshjoshi18@gmail.com  
-🐙 GitHub: https://github.com/Avaneesh635  
-🌐 Portfolio: https://avaneeshportfolio.netlify.app
+##  Connect With Me
+ LinkedIn: https://linkedin.com/in/avaneeshjoshi18  
+ Email: avaneeshjoshi18@gmail.com  
+ GitHub: https://github.com/Avaneesh635  
+ Portfolio: https://avaneeshportfolio.netlify.app
