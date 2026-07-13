@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a self-taught AI/ML Engineer who has independently shipped 10+ production-grade AI systems, from a hardened Generative AI RAG API to an offline desktop AI assistant. I'm also an active open-source contributor, with 5 merged pull requests to a LangGraph-based Playwright self-healing engine — including two maintainer-rated "Core Feature" implementations.
 
 I enjoy designing production-ready AI applications that combine modern LLMs with automation platforms, APIs, vector databases, desktop applications, and cloud services — turning them into systems that solve real-world problems, from autonomous business workflows to local-first AI assistants.
 
-🎯 Interested in:
+  Interested in:
 - Generative AI Engineering
 - Applied AI
 - Agentic AI
