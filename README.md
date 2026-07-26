@@ -24,7 +24,7 @@ Interested in: Generative AI Engineering · Applied AI · Agentic AI · RAG Syst
 
 ### E2E-Self-Heal — LangGraph/Playwright Self-Healing Engine
 
-> 7 merged pull requests into a public production codebase, progressing from test coverage to core-feature architecture — promoted from Contributor to Collaborator by the maintainer.
+> 14 merged pull requests into a public production codebase, progressing from test coverage to core-feature architecture — promoted from Contributor to Collaborator by the maintainer.
 
 - Built a deterministic **MatchScorer** (Python) for network-mock replay using weighted similarity scoring across URL, headers, query params, and body, with tie-breaking logic for reproducibility
 - Built a persistent **SnapshotStore** (Pydantic schemas, structlog logging, custom exception hierarchy) for Shadow Runtime state — rated **"Core Feature"** by the maintainer
