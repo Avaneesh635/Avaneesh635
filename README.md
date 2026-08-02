@@ -170,7 +170,7 @@ Interested in: Generative AI Engineering · Applied AI · Agentic AI · RAG Syst
 
 ---
 
-##  Certifications
+## Certifications
 -  Google Cloud Certified Professional Machine Learning Engineer
 -  AWS Cloud Practitioner Certified
 -  Oracle Agentic AI Certified
