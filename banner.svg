@@ -1,8 +1,8 @@
-<svg fill="no" viewBox="0 0 800 200" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 200" width="100%" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="200" fill="#0D1117"/>
   
-  <!-- Matrix Background Effect -->
-  <g font-family="monospace" font-size="14" fill="#003B00" opacity="0.6">
+  <!-- Matrix Background Effect (dim cyan rain) -->
+  <g font-family="monospace" font-size="14" fill="#003D3D" opacity="0.6">
     <text x="50" y="20">10110 01001</text>
     <text x="150" y="80">01001 11010</text>
     <text x="250" y="140">11010 00110</text>
@@ -13,12 +13,12 @@
     <text x="10" y="100">0101 1110 0011</text>
   </g>
   
-  <!-- Terminal Boot Sequence -->
-  <g font-family="monospace" font-size="16" fill="#00FF41">
+  <!-- Terminal Boot Sequence (bright cyan) -->
+  <g font-family="monospace" font-size="16" fill="#00FFFF">
     <text x="30" y="50">&gt; booting system...</text>
     <text x="30" y="80">&gt; loading user: avaneesh_joshi</text>
     <text x="30" y="110">&gt; role: ai_ml_engineer | agentic_ai_dev</text>
     <text x="30" y="140">&gt; executing production_llm.exe ... [SUCCESS]</text>
-    <text x="30" y="170">&gt; welcome to the matrix_<tspan fill="#00FF41" opacity="0.8">|</tspan></text>
+    <text x="30" y="170">&gt; welcome to the matrix_<tspan fill="#00FFFF" opacity="0.8">|</tspan></text>
   </g>
 </svg>
