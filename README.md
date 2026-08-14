@@ -8,6 +8,7 @@
   <a href="https://avaneeshportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=netlify&logoColor=black"/></a>
   <a href="https://github.com/Avaneesh635"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
+
 ---
 
 ### `whoami` // About Me
@@ -20,6 +21,8 @@ class AvaneeshJoshi:
         self.track_record = "Independently shipped 4+ production-grade AI systems."
         self.open_source = "10+ merged PRs to a LangGraph-based self-healing engine."
         self.status = "Fresher | Open to Full-Time Roles & Relocation"
+```
+
 ---
 
 ### `~/projects` // Featured Builds
