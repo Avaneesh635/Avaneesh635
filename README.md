@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/avaneeshjoshi18"><img src="https://img.shields.io/badge/LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:avaneeshjoshi18@gmail.com"><img src="https://img.shields.io/badge/Email-00FF41?style=flat-square&logo=gmail&logoColor=black"/></a>
-  <a href="https://avaneeshportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=flat-square&logo=netlify&logoColor=black"/></a>
-  <a href="https://github.com/Avaneesh635"><img src="https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/avaneeshjoshi18"><img src="https://img.shields.io/badge/LinkedIn-FF00EA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:avaneeshjoshi18@gmail.com"><img src="https://img.shields.io/badge/Email-FF00EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://avaneeshportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF00EA?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://github.com/Avaneesh635"><img src="https://img.shields.io/badge/GitHub-FF00EA?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
