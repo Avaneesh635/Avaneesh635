@@ -62,5 +62,5 @@ Automation  open     n8n, GitHub Actions, Postman, Webhooks
 `🏅 GCP ML Engineer` • `🏅 AWS Cloud Practitioner` • `🏅 Oracle Agentic AI Certified`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avaneesh635&label=Profile+Views&color=00FFFF&style=flat-square" alt="Avaneesh635" />
+  <img src="https://komarev.com/ghpvc/?username=Avaneesh635&label=Profile+Views&color=4D9FFF&style=flat-square" alt="Avaneesh635" />
 </div>
