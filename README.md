@@ -59,7 +59,7 @@ Automation  open     n8n, GitHub Actions, Postman, Webhooks
 ---
 
 ### `cat ./certifications.txt` // Credentials
-`🏅 GCP ML Engineer` • `🏅 AWS Cloud Practitioner` • `🏅 Oracle Agentic AI Certified`
+`🏅 GCP ML Engineer` • `🏅 AWS Cloud Practitioner` • `🏅 Oracle Agentic AI Certified` • `🏅 Cisco Endpoint Security`
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Avaneesh635&label=Profile+Views&color=4D9FFF&style=flat-square" alt="Avaneesh635" />
