@@ -16,11 +16,11 @@
 #!/usr/bin/env python3
 class AvaneeshJoshi:
     def __init__(self):
-        self.role = "AI/ML Engineer | GenAI & Agentic AI Developer"
-        self.focus = ["Agentic AI", "RAG Systems", "Local LLMs", "Workflow Automation"]
-        self.track_record = "Independently shipped 4+ production-grade AI systems."
-        self.open_source = "10+ merged PRs to a LangGraph-based self-healing engine."
-        self.status = "Fresher | Open to Full-Time Roles & Relocation"
+        self.role = "Backend Software Engineer | Python, Distributed Systems & Data Infrastructure"
+        self.focus = ["Backend APIs", "Distributed Systems", "Data Infrastructure", "Deterministic Testing"]
+        self.track_record = "Independently scoped, architected, and shipped 3+ production backend & automation services."
+        self.open_source = "22 merged PRs as Collaborator & Core Contributor on E2E-Self-Heal."
+        self.status = "Open to Full-Time Roles & Relocation"
 ```
 
 ---
@@ -28,20 +28,19 @@ class AvaneeshJoshi:
 ### `~/projects` // Featured Builds
 | Project | Architecture & Impact | Stack |
 | :--- | :--- | :--- |
-| 🧠 **DocOps Agent** | **Self-Healing RAG:** LangGraph state machine with auto-retry loops, semantic caching (Redis), and Ragas-style evaluation guardrails. | `LangGraph` `pgvector` `Redis` `FastAPI` |
-| 💼 **Biz Ops Copilot** | **Zero-Intervention Platform:** Consolidated 5+ business functions into an automated n8n pipeline, reducing manual reporting time by ~70%. | `n8n` `Groq LLM` `Google Sheets` |
-| 🌙 **Luna** | **Offline Desktop Assistant:** Privacy-first Electron app running local Ollama LLMs with agentic memory extraction & consent-gated OS automation. | `Electron` `React` `Ollama` `TS` |
-| ⚡ **Redis-Lite** | **Async KV Store:** Multi-threaded Rust server with Tokio, 16-way database sharding to eliminate lock contention, and background GC. | `Rust` `Tokio` `RESP Protocol` |
+| 🧠 **DocOps** *(Stateful Retrieval & Semantic Caching API)* | Fault-tolerant FastAPI backend with a stateful execution graph (`retrieve → reason → verify`) that dynamically alters query strategies on validation failure, fronted by a Redis semantic cache over PostgreSQL (`pgvector` HNSW index) with strict I/O and prompt-injection guardrails. | `Python` `FastAPI` `PostgreSQL` `pgvector` `Redis` |
+| 🌙 **Luna** *(Sandboxed Local IPC & Automation Engine)* | Offline-first desktop backend runtime with zero cloud dependency, gating OS-level file and calendar automation behind consent modals and an isolated `ContextBridge` IPC layer. | `TypeScript` `Electron` `Node.js` |
+| ⚙️ **Automated Operations & Routing Pipeline** | Consolidated 5+ operational workflows into an event-driven routing pipeline, cutting manual processing time by ~70% (`2+ hrs` to `<5 min`) via automated classification and priority queues. | `n8n` `Webhooks` `REST APIs` |
 
 ---
 
 ### `sudo ./open_source.sh` // Contributions
-**E2E-Self-Heal** *(LangGraph/Playwright Engine)*
-*Promoted from Contributor to Collaborator.*
-- **MatchScorer & SnapshotStore:** Built deterministic network-mock replay and persistent Shadow Runtime state (rated **"Core Feature"** by maintainer).
-- **Shadow Testing Orchestration:** Wired end-to-end headless Chromium replay and implemented AST-based selector diffing (replacing fragile regex).
-- **shadow-verify:** Added a gating node for deterministic offline replay before live runs (rated **"Core Feature"**).
-- **Quality:** Added 70+ `pytest` unit tests and a cross-platform Windows symlink fix.
+**E2E-Self-Heal** *(Python, Playwright, Pydantic, structlog, pytest)*
+*Collaborator & Core Contributor — 22 Merged PRs*
+- **State Persistence (`SnapshotStore`):** Built persistent `SnapshotStore` with strict Pydantic schemas, `structlog` logging, and a custom exception hierarchy for deterministic runtime state (rated **"Core Feature"** by maintainer).
+- **Sync/Async Network Interception (`MatchScorer`):** Engineered Playwright Mock Injector supporting sync/async runtimes via route interception, paired with a deterministic `MatchScorer` for network-mock replay (rated **"Core Feature"**).
+- **Verification Gateways (`run_shadow()`):** Architected end-to-end replay orchestration (`run_shadow()`) and an offline verification gate executing deterministic state validation before patches hit live tests.
+- **Automated Testing:** Authored 70+ unit and integration tests in `pytest` across CLI commands, selector verification, and sandboxed execution modules.
 - [🔗 Repository: Lee-Dongwook/E2E-Self-Heal](https://github.com/Lee-Dongwook/E2E-Self-Heal)
 
 ---
@@ -49,17 +48,16 @@ class AvaneeshJoshi:
 ### `nmap -sV skills.local` // Tech Stack
 ```bash
 PORT        STATE    SERVICE
-Languages   open     Rust, Python, TypeScript, C++, Java
-AI/GenAI    open     LangGraph, OpenAI, Groq, Agentic Systems, RAG, Guardrails
-ML/CV       open     Scikit-Learn, OpenCV, FAISS, Sentence Transformers
-Backend     open     FastAPI, Flask, Tokio, Docker, PostgreSQL, Redis, REST APIs
-Automation  open     n8n, GitHub Actions, Postman, Webhooks
+Languages   open     Python, TypeScript, SQL
+Backend     open     FastAPI, Pydantic, AsyncIO, REST APIs, TCP/RESP Networking
+Databases   open     PostgreSQL, pgvector (HNSW Indexing), Redis
+Testing/Ops open     pytest, structlog, Git, GitHub Actions, n8n, Webhooks
 ```
 
 ---
 
 ### `cat ./certifications.txt` // Credentials
-`🏅 GCP ML Engineer` • `🏅 AWS Cloud Practitioner` • `🏅 Oracle Agentic AI Certified` • `🏅 Cisco Endpoint Security`
+`🏅 AWS Certified Cloud Practitioner` • `🏅 Google Cloud Professional ML Engineer` • `🏅 Cisco Endpoint Security` • `🏅 Oracle Agentic AI`
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Avaneesh635&label=Profile+Views&color=4D9FFF&style=flat-square" alt="Avaneesh635" />
